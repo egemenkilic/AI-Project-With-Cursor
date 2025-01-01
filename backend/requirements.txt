@@ -1,0 +1,10 @@
+flask==2.3.3
+werkzeug==2.3.7
+flask-cors==4.0.0
+python-dotenv==1.0.0
+numpy==1.22.4
+torch
+transformers
+diffusers[torch]
+pillow
+accelerate 
